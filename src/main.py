@@ -1,8 +1,8 @@
 import string
-from src.methods.vigenere import VigenereEncoder
-from src.methods.ceasar import CeasarEncoder
-from src.methods.polybios import PolybiosEncoder
-from src.methods.skytala import Skytala
+from methods.vigenere import VigenereEncoder
+from methods.ceasar import CeasarEncoder
+from methods.polybios import PolybiosEncoder
+from methods.skytala import Skytala
 
 # --------------- Vigenere ----------------
 message = "sehr_viel_uebungsspass_ohne_ende"
